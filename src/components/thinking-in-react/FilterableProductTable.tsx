@@ -1,6 +1,6 @@
 import { Center, Flex, Heading } from '@chakra-ui/react'
 import React from 'react'
-import { PRODUCTS } from '../utils/data'
+import { PRODUCTS } from '../../utils/data'
 import { ProductTable } from './ProductTable'
 import { SearchBar } from './SearchBar'
 

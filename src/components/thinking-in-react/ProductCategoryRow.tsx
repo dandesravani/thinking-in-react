@@ -1,6 +1,6 @@
 import { Th, Tr } from '@chakra-ui/react'
 import React from 'react'
-import { Product } from '../utils/types'
+import { Product } from '../../utils/types'
 
 interface ProductCategoryRowProps {
   category: Product['category']

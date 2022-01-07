@@ -1,7 +1,7 @@
 import { Center, Flex, Table, Tbody, Th, Thead, Tr } from '@chakra-ui/react'
 import React from 'react'
-import { categorizedProducts } from '../utils/dataTransform'
-import { Product, Products } from '../utils/types'
+import { categorizedProducts } from '../../utils/dataTransform'
+import { Product, Products } from '../../utils/types'
 import { ProductCategoryRow } from './ProductCategoryRow'
 import { ProductRow } from './ProductRow'
 
